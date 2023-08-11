@@ -1,2 +1,2 @@
-# myNext.js
-Collection of projects developed with Next.js
+# 官方文档教程 + 练习项目
+
